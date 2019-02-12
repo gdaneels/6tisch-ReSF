@@ -1,3 +1,10 @@
+ReSF implementation
+====================
+
+This simulator contains the ReSF (Recurrent Low-Latency Scheduling Function) implementation as described in:
+
+Daneels, G., Spinnewyn, B., Latré, S., & Famaey, J. (2018). ReSF: Recurrent Low-Latency Scheduling in IEEE 802.15. 4e TSCH networks. Ad Hoc Networks, 69, 100-114.
+
 The 6TiSCH Simulator
 ====================
 
