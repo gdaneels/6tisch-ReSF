@@ -5,6 +5,8 @@ This simulator contains the ReSF (Recurrent Low-Latency Scheduling Function) imp
 
 Daneels, G., Spinnewyn, B., Latré, S., & Famaey, J. (2018). ReSF: Recurrent Low-Latency Scheduling in IEEE 802.15. 4e TSCH networks. Ad Hoc Networks, 69, 100-114.
 
+Paper can be found [here](https://www.sciencedirect.com/science/article/pii/S1570870517302019?casa_token=skfDeZ8JxwAAAAAA:1AAvMTOzsI1fSovLHoV01kaPTP5yAMvgpqTBd64INjMFrlc0q7x1cTyexLmein_7aw__IE-kzQ).
+
 The 6TiSCH Simulator
 ====================
 
